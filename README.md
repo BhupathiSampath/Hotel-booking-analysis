@@ -94,39 +94,73 @@ Introduction
 The hotel industry may be a very volatile industry and the bookings depend on various factors such as type of hotels, seasonality, days of week and lots of more factors. This makes analyzing the patterns available within the past data more important to help the better. Using the given historical data, hotels can perform various campaigns to extend the business.
 
 We will try to answer few question mentioned below:
+
     1. Which hotel type is most preferred by customers?
+    
     2. Which type of customers has more bookings?
+    
     3. Which type of rooms are most preferred rooms?
+    
     4. What is the cancellation of bookings with respect to Distribution Channel?
+    
     5. What are the explanations for cancellation of bookings?
+    
     6. Which agent made more bookings?
+    
     7. What is the percentage of repeated guests?
+    
     8. What is the percentage distribution of required car parking spaces?
+    
     9. What is the percentage of booking changes made by the customer?
+    
     10. Which channel is made more bookings?
+    
     11. Which channel is used for early bookings?
+    
     12. Which channel making good revenue generating with respect to hotel?
+    
     13. What is the adr across the market segments?
+    
     14. What is the number of bookings by month wise?
+    
     15. What is the adr across the months?
+    
 
 Conclision:
 
     •  City hotels are the most preferred hotels. Thus, City hotels are busiest than Resorts.
+    
     •  Transient customer type is more percentage of booking which is 82.4% and Group type is low which is 0.6%.
+    
     •  Most of the guests are preferring the rooms "A"(Code of room type). So, Code "A" type rooms can be increased to increase the bookings.
+    
     • 27.5% bookings has been cancelled.
+    
     • Distribution channel "TA/TO" has more cancellations with 89.13%.
+    
     • Less than 150 days waiting list has been canceled and there are no canceled bookings also more in less than 150 days waiting list. Hence, we can         say days in waiting list is not much affecting the cancelation.
+    
     • Lead time also not much affecting the cancelation of bookings.
+    
     • The same room allotted and not allotted are almost similar. Hence, not getting the same room is affecting the daily "adr". Guests who are not             getting the same room are paying the less adr compared to same room allotted.
+    
     • Agent with ID Number: 9 has done more bookings.
+    
     • There is only few guest are repeated which is 3.9%.
+    
     • 91.6% guests did not require the parking space where only 8.3% of guests required only 1 parking space.
+    
     • Distribution channel "TA/TO" has done more bookings and used for early bookings.
+    
     • Distribution channels 'Direct' and 'TA/TO' are contributing the most in both types of hotels. GDS distribution channel should focus on increasing         the bookings of 'City Hotel'.
+    
     • Market segment "Direct" has the high adr in both Resort and City hotels where "Complementary" has less. Aviation segment can focus on City hotel.
+    
     • Bookings have been increasing till the mid of year and we can see in August bookings went to highest. Hence, Most of the people are planning trips       in august month.
+    
     • Avg adr rises from beginning of year up to middle of year and reaches peak in August and then lowers to the end of year. But hotels do make some         good deals with high adr at end of year also.
+    
     • Mostly bookings are done by couples(although we are not sure that they are couple as data doesn't talk about that).
+    
     • It is clear from the graph that there is a sudden surge in the arrival number of couples and families in the months of July and August. So better         plans can be planned accordingly at that time for these types of customers. 
+    
