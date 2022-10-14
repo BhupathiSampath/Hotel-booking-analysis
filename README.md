@@ -13,40 +13,75 @@ We are given a Hotel booking analysis dataset having 32 columns with 119390 reco
 
 Columns description:
     1. Hotel : Hotel(Resort Hotel or City Hotel).
+    
     2. Is canceled : Value indicating if the booking was canceled (1) or not (0).
+    
     3. Lead time : Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
+    
     4. Arrival date year : Year of arrival date.
+    
     5. Arrival date month : Month of arrival date.
+    
     6. Arrival date week number : Week number of year for arrival date.
+    
     7. Arrival date day of month : Day of arrival date.
+    
     8. Stays in weekend nights : Number of weekend nights (Saturday or Sunday) the guest stayed or booked to remain at the hotel.
+    
     9. Stays in week-nights : Number of week-nights (Monday to Friday) the guest stayed or booked to remain at the hotel.
+    
     10. Adults : Number of adults.
+    
     11. Children : Number of children.
+    
     12. Babies : Number of babies.
-    13. . Meal : sort of meal booked. Categories are presented in standard hospitality meal packages.
-    14.  Country : Country of origin.
-    15. . Market segment : Market segment designation. In categories, the term “TA” means “Travel Agents” and “TO” means “Tour Operators”.
+    
+    13. Meal : sort of meal booked. Categories are presented in standard hospitality meal packages.
+    
+    14. Country : Country of origin.
+    
+    15. Market segment : Market segment designation. In categories, the term “TA” means “Travel Agents” and “TO” means “Tour Operators”.
+    
     16. channel : Booking distribution channel. The term “TA” means “Travel Agents” and “TO” means “Tour Operators”.
+    
     17. Is repeated guest : Value indicating if the booking name was from a repeated guest (1) or not (0).
+    
     18. Previous cancellations : Number of previous bookings that were canceled by the customer before the current booking.
+    
     19. Previous bookings not canceled : Number of previous bookings not canceled by the customer before the current booking.
+    
     20. Reserved room type : Code of room type reserved. Code is presented rather than designation for anonymity reasons.
+    
     21. Assigned room type : Code for the sort of room assigned to the booking.
-    22. Booking changes : Number of changes/amendments made to the booking from the instant the booking was entered on the PMS until the moment of check-in or cancellation.
+    
+    22. Booking changes : Number of changes/amendments made to the booking from the instant the booking was entered on the PMS until the moment of check-         in or cancellation.
+    
     23. Deposit type : Indication on if the customer made a deposit to ensure the booking.
+    
     24. Agent : ID of the agency that made the booking.
+    
     25. Company : ID of the company/entity that made the booking or liable for paying the booking.
+    
     26. Days in roll : Number of days the booking was in the waiting list before it was confirmed to the customer.
+    
     27. Customer type : sort of booking, assuming one among four categories.
+    
     28. Adr : Average Daily Rate as defined by dividing the sum of all lodging transactions by the entire number of staying nights.
-    29. . Required car parking spaces : Number of car parking spaces required by the customer.
-    30. . Total of special requests : Number of special requests made by the customer (e.g., bed or high floor).
+    
+    29. Required car parking spaces : Number of car parking spaces required by the customer.
+    
+    30. Total of special requests : Number of special requests made by the customer (e.g., bed or high floor).
+    
     31. Reservation status : Reservation last status, assuming one among three categories.
+    
     A. Canceled – booking was canceled by the customer.
+    
     B. Check-Out – customer has checked in but already departed.
+    
     C. No-Show – customer didn't check-in and did inform the hotel of the reason why.
+    
     32. Reservation status date : Date at which the last status was set. This variable are often used in conjunction with the Reservation Status to understand when the booking was canceled or when the customer checked-out of the hotel.
+    
 
 Problem Statement
 
